@@ -77,3 +77,18 @@
 .col-8 {
     height: 300px;
 }
+
+.test-background-in {
+    background-color: #7876C2;
+    opacity: 68%;
+    color: black;
+}
+.test-background-out {
+    background-color: #7876C2;
+    color: white;
+}
+
+.test-edit {
+    justify-content: center;
+    align-items: center;
+}
